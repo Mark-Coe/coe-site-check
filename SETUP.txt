@@ -1,0 +1,11 @@
+COE CONSTRUCTIONS — FRIDAY SITE CHECK
+
+Open index.html on a desktop browser to try the form. All inspection data stays in browser memory until you generate a PDF. Do not close/reload the page before saving. No account, paid PDF editor or external JavaScript library is required.
+
+To use on phones, publish all files in this folder together to an HTTPS static web host (e.g. a free GitHub Pages site, subject to its terms and limits). The app is not published yet. A public host exposes the blank template only; entered inspection data is not sent by this app. Follow your company's policy for public hosting of branded templates.
+
+On iPhone/iPad: open hosted URL in Safari, Share > Add to Home Screen. On Android: open in Chrome, menu > Add to Home screen / Install app. On Windows/Mac: bookmark the URL. After first successful online load, the service worker caches app files for offline use; browser storage may be cleared. Test airplane mode before relying on it.
+
+Complete the form, add photos (camera or gallery), sign and generate PDF. Use Share / Save to Dropbox if supported, or upload the downloaded PDF manually in Dropbox. Check the saved file before starting a new inspection. Same site/date produces the same suggested name; choose a different name if Dropbox warns about replacing an existing inspection. The blank app is never overwritten by PDF export.
+
+The PDF is a high-resolution image-based report, not an editable PDF form. The web layout retains the checklist, branding and photo records, not the exact original page geometry. Photo selection depends on device/browser; JPEG and PNG are recommended. No automatic Dropbox integration or persistent draft storage is configured.
